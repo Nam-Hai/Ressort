@@ -37,7 +37,7 @@ class Poid {
         rectMode(CENTER);
 
         this.y = mouseY - height / 2 + this.y;
-        this.y /= 2;
+        this.y /= 3;
 
 
         fill(50);
